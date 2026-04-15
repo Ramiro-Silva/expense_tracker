@@ -22,7 +22,9 @@ Este proyecto consiste en una aplicación frontend simple orientada a la prácti
 
 ## Estructura del proyecto
 
+
 expense-tracker/
+
 │── index.html     # Estructura de la aplicación  
 │── style.css      # Estilos visuales  
 │── app.js         # Lógica de la aplicación  
