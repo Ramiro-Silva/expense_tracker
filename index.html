@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestor de Gastos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Gestor de Gastos</h1>
+
+    <!-- Formulario para agregar gasto -->
+    <input type="text" id="description" placeholder="Descripción">
+    <input type="number" id="amount" placeholder="Monto">
+    <button onclick="addExpense()">Agregar</button>
+
+    <!-- Lista de gastos -->
+    <ul id="expense-list"></ul>
+
+    <!-- Total -->
+    <h3 id="total">Total: $0</h3>
+
+    <script src="app.js"></script>
+</body>
+</html>
