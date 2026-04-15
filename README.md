@@ -32,7 +32,7 @@ expense-tracker/
 
 1. Clonar el repositorio:
 
-git clone https://github.com/Ramiro-Silva/expense-tracker.git
+git clone https://github.com/Ramiro-Silva/expense_tracker.git
 
 2. Acceder a la carpeta del proyecto:
 
